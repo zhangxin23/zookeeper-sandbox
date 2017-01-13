@@ -15,8 +15,8 @@
  */
 package net.coderland.zookeeper.dubbo.common.json;
 
-import com.alibaba.dubbo.common.bytecode.Wrapper;
-import com.alibaba.dubbo.common.io.Bytes;
+import net.coderland.zookeeper.dubbo.common.bytecode.Wrapper;
+import net.coderland.zookeeper.dubbo.common.io.Bytes;
 
 import java.io.IOException;
 import java.lang.reflect.Array;

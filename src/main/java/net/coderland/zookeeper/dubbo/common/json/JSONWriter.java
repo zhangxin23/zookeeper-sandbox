@@ -15,7 +15,7 @@
  */
 package net.coderland.zookeeper.dubbo.common.json;
 
-import com.alibaba.dubbo.common.utils.Stack;
+import net.coderland.zookeeper.dubbo.common.utils.Stack;
 
 import java.io.*;
 

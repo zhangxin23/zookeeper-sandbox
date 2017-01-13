@@ -15,8 +15,8 @@
  */
 package net.coderland.zookeeper.dubbo.common.bytecode;
 
-import com.alibaba.dubbo.common.utils.ReflectUtils;
 import javassist.*;
+import net.coderland.zookeeper.dubbo.common.utils.ReflectUtils;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;

@@ -15,8 +15,8 @@
  */
 package net.coderland.zookeeper.dubbo.common.bytecode;
 
-import com.alibaba.dubbo.common.utils.ClassHelper;
-import com.alibaba.dubbo.common.utils.ReflectUtils;
+import net.coderland.zookeeper.dubbo.common.utils.ClassHelper;
+import net.coderland.zookeeper.dubbo.common.utils.ReflectUtils;
 
 import java.lang.ref.Reference;
 import java.lang.ref.WeakReference;
